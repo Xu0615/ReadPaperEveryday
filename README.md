@@ -1,4 +1,4 @@
-# ReadPaper 
+# ReadPaper (If you like it, welcome to Star~✨ )
 
 > 这是一个用GPT协助生成的论文读取工具~每天爬取Arxiv关键词论文，然后发给LLM（可以使用gpt5-mini, gpt4o-mini等api）进行解读，帮助你跟上最新的科研进展哦~~
 > **每天自动从 arXiv（计算机科学分类）抓取你关心的关键词最新论文**，解析**标题 / 作者 / 摘要 / 提交时间**，并用大模型生成「**模型解读**」。
